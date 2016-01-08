@@ -13,6 +13,6 @@
 		return $string;
 	}
 
-	echo sayHelloTo('da-DK', 'Sanni! :)');
+	echo sayHelloTo('da-DK', 'Sanni Larsen! :)');
 	
 ?>
