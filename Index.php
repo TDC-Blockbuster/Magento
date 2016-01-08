@@ -28,6 +28,6 @@
 		return $string;
 	}
 
-	echo sayHelloToSomeone('da-DK', 'Sanni! :)');
+	echo '<br />' . sayHelloToSomeone('da-DK', 'Sanni! :)');
 	
 ?>
