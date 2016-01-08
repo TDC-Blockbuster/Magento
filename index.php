@@ -1,6 +1,6 @@
 <?php
 
-	echo 'Hello Europe!';
+	echo 'Hello America!';
 	echo 'Hello Marc!';
 
 ?>
