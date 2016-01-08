@@ -13,7 +13,7 @@
 		return $string;
 	}
 
-	echo sayHelloTo('da-DK', 'Sanni! :)');
+	echo sayHelloTo('da-DK', 'Sanni Larsen! :)');
 	
 	
 	public function sayHelloToSomeone($lang, $name) {
