@@ -1,6 +1,6 @@
 <?php
 
 
-	echo 'Hello Marc!';
+	echo 'Hello Kenn!';
 	
 ?>
