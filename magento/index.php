@@ -1,6 +1,6 @@
 <?php
 /**
- * Magento
+ * Magento IS THA BEST!
  *
  * NOTICE OF LICENSE
  *
